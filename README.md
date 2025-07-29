@@ -3,24 +3,9 @@
 </p>
 <p align="center">
   <img src="https://i.postimg.cc/B6CTTV2k/171481663078353414-3.gif"style="width:300px"/> ⠀⠀<a href="https://finnmertensthehuman.straw.page">strawpage</a> . <a href="https://rentry.co/krisdreemurrthecage">rentry</a>⠀⠀<img src="https://i.postimg.cc/B6CTTV2k/171481663078353414-3.gif"style="width:300px"/>
-<br>
-<br>
 </p>
+<br>
+<br>
 <p align="center">
   <img src="https://i.postimg.cc/fW59KPrj/tumblr-fe264a6b783cc5956122942c494615b6-27b30155-2048-1.png"style="width:800px"/>
 </p>
-
-<!--
-**anarxhyolo/anarxhyolo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
